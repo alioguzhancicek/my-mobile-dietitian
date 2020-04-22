@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966350740136",
+    "firebase_url": "https://mymobiledietician.firebaseio.com",
+    "project_id": "mymobiledietician",
+    "storage_bucket": "mymobiledietician.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966350740136:android:90e819b28d96f3ddb3c09d",
+        "android_client_info": {
+          "package_name": "com.alioguzhancicek.mymobiledietician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966350740136-bhub0tp7v2fmav99tc7uskq7vpkrboqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alioguzhancicek.mymobiledietician",
+            "certificate_hash": "8c944443ad61a22a2ea4cc5db49dcddf609bab99"
+          }
+        },
+        {
+          "client_id": "966350740136-h7q02bv6ccbt4gn8hfo6dcng7uleinqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOvJ6E714Lqfrj-QmEYxhD1Nkl-BbYpsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966350740136-h7q02bv6ccbt4gn8hfo6dcng7uleinqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
